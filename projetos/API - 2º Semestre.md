@@ -21,8 +21,8 @@ O sistema permite a integração com diferentes tipos de modelos de linguagem.
 | **LM Studio**   | Ferramenta utilizada para execução dos modelos.                                                                      |
 | **Git**         | Sistema de controle de versão utilizado para gerenciar e versionar o código-fonte.                                   |
 
-#### Contribuições Pessoais
-Atuando como Scrum Master, durante o desenvolvimento do projeto, fui responsável pela integração dos modelos de linguagem à aplicação utilizando a biblioteca LangChain4j pela modelagem das classes, pelo gerenciamento dos modelos no LM Studio, desenvolvimento da interface e da integração desta com o código dos modelos, além da modelagem e desenvolvimento do banco de dados.
+## Contribuições Pessoais
+Atuando como Scrum Master, e considerando a grande complexidade técnica envolvida na solução proposta, precisei contribuir diretamente na parte técnica do projeto. Fui responsável pela integração dos modelos de linguagem à aplicação utilizando a biblioteca LangChain4j, pela modelagem das classes e pelo gerenciamento dos modelos no LM Studio. Também desenvolvi a interface da aplicação e realizei a integração dela com o código dos modelos, além de modelar e implementar todo o banco de dados.
 
 <details>
 <summary>Gerando SQL com linguagem natural</summary>
@@ -44,7 +44,7 @@ public String getPrompt(){
 </details>
 
 
-#### Hard Skills
+## Hard Skills
 | Tecnologia      | Proficiência       | Descrição                                                                     |
 | :-------------- | :----------------- | :---------------------------------------------------------------------------- |
 | **Java**        | faço com ajuda     | Desenvolvimento da interface e modelagem das classes.                         |
@@ -54,10 +54,11 @@ public String getPrompt(){
 | **Git**         | faço com autonomia | Controle de versão, trabalho em equipe com branches e gestão de repositórios. |
 
 
-#### Soft Skills
+## Soft Skills
 - **Liderença**: *Atuando como Scrum Master, identifiquei que parte da equipe estava com dificuldades na utilização da linguagem Java. Para compreender melhor as necessidades individuais, conversei separadamente com cada membro, buscando entender suas principais barreiras técnicas. A partir desse diagnóstico, propus a realização de cursos online gratuitos para reforçar o aprendizado e ofereci suporte direto nas tarefas de maior complexidade. Essas ações ajudaram a reduzir impedimentos e contribuíram para o avanço contínuo do time.*
 
 - **Proatividade:** *Após a definição do design da aplicação, tomei a iniciativa de iniciar o desenvolvimento da interface utilizando Java Swing, estruturando os primeiros componentes visuais e estabelecendo o padrão de organização do frontend. Ao avançar de forma antecipada, facilitei o trabalho dos demais integrantes e acelerei a evolução inicial da aplicação.*
 
 
-[Voltar](Samuel Alkmin Machado.md)
+
+[Voltar](../README.md)

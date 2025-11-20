@@ -1,6 +1,6 @@
 
 ## Introdução
-<img align="right" src="foto_perfil.jpeg" alt="Foto de Samuel" width="300"/>
+<img align="right" src="assets/foto_perfil.jpeg" alt="Foto de Samuel" width="300"/>
 
 Olá meu nome é Samuel, tenho 20 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
 
@@ -41,13 +41,13 @@ Atualmente sou trainee na DataSide, uma empresa de consultoria focada em dados, 
 ## Meus Projetos
 
 ##### (2023-2) | Fatec-Sjc | Web Site para capacitação do Scrum
-- [API - 1º Semestre](API%20-%201º%20Semestre.md)
+- [API - 1º Semestre](projetos/API%20-%201º%20Semestre.md)
 
 ##### (2024-1) | Fatec-Sjc | Aplicação Desktop para consulta com linguagem natural em dados
-- [API - 2º Semestre](API%20-%202º%20Semestre.md)
+- [API - 2º Semestre](projetos/API%20-%202º%20Semestre.md)
 
 ##### (2024-2) | Fatec-Sjc | Aplicação web com dashboards organizacionais
-- [API - 3º Semestre](API%20-%203º%20Semestre.md)
+- [API - 3º Semestre](projetos/API%20-%203º%20Semestre.md)
 
 ##### (2025-1) | Fatec-Sjc | Aplicação web para gerenciamento inteligente de projetos
-- [API - 4º Semestre](API%20-%204º%20Semestre.md)
+- [API - 4º Semestre](projetos/API%20-%204º%20Semestre.md)

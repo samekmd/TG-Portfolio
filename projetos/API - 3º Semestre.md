@@ -34,8 +34,18 @@ Além disso, o modo usuário apresenta gráficos de barras que permitem acompanh
 | **PostgreSQL** | Banco de dados relacional, utilizado para armazenamento de dados do sistema                                                                      |
 | **Firebase**   | Serviço em nuvem com banco de dados não relacional (NoSQL), utilizado para o armazenamento e autenticação de usuários (e-mails e senhas).        |
 | **Git**        | Sistema de controle de versão distribuído, utilizado para o gerenciamento do código-fonte e colaboração em equipe.                               |
-#### Contribuições Pessoais
-Atuando como desenvolvedor, fui responsável pela estruturação do backend seguindo o padrão de projeto MVC, organizando pastas e arquivos de forma modular.  
+## Contribuições Pessoais
+Atuando como desenvolvedor, fui responsável pela estruturação do backend seguindo o padrão de projeto MVC, organizando as pastas e arquivos de forma modular. O padrão MVC é composto por três camadas — Models, Views e Controllers — e, com base nele, a arquitetura do projeto foi definida da seguinte forma:
+```bash
+├── database/ 
+    ├── config/ 
+    ├── controllers/ 
+    ├── entities/
+    ├── services/ 
+	├── routes.ts
+├── middlewares/ 
+├── server.ts
+```
 Realizei a conexão com o banco de dados e desenvolvi a modelagem das classes **Usuário** (administrador, líder e liderado), **Equipe**, **Perguntas** e **Formulários**, implementando um CRUD completo para cada uma delas, incluindo **models**, **services**, **controllers**, relações e rotas correspondentes. 
 No frontend, contribui para o desenvolvimento da **sidebar**, integração com a biblioteca **Material UI** e comunicação com o backend por meio do **Axios**, implementando o cadastro de usuários, criação de formulários e uma tabela para controle das respostas dos participantes.
 
@@ -100,7 +110,7 @@ No frontend, contribui para o desenvolvimento da **sidebar**, integração com a
 
 
 
-#### Hard Skills
+## Hard Skills
 | Tecnologia     | Proficiência       | Descrição                                                                                                               |
 | :------------- | :----------------- | :---------------------------------------------------------------------------------------------------------------------- |
 | **React**      | faço com ajuda     | Desenvolvimento de página ecomponentes, além da integração com backend                                                  |
@@ -111,10 +121,11 @@ No frontend, contribui para o desenvolvimento da **sidebar**, integração com a
 | **Git**        | faço com autonomia | Controle de versão, trabalho em equipe com branches e gestão de repositórios.                                           |
 
 
-#### Soft Skills
+## Soft Skills
 - **Flexibilidade e Resiliência**: *Durante o projeto, enfrentamos uma mudança significativa no escopo, passando do desenvolvimento tradicional para a construção de uma API RESTful. Esse novo cenário exigiu rápida adaptação ao uso de métodos HTTP, criação de rotas, consumo de dados em JSON e compreensão dos princípios de arquitetura REST. Busquei me aprofundar nesses tópicos por meio de estudos adicionais e experimentação prática, o que me permitiu continuar contribuindo com o desenvolvimento sem ser impactado negativamente pelas mudanças.*
 
 - **Proatividade**: *Tomei a iniciativa de iniciar o desenvolvimento da interface do sistema, pesquisando previamente padrões de projeto e boas práticas para aplicações modernas. Com base nisso, dei início à estruturação do frontend utilizando React e a biblioteca Material UI, definindo estilos, componentes e a organização base da aplicação. Essa ação antecipada facilitou o alinhamento visual do projeto e acelerou o avanço da equipe.*
 
 
-[Voltar](Samuel Alkmin Machado.md)
+
+[Voltar](../README.md)
