@@ -44,13 +44,13 @@
 ## Meus Projetos
 
 ##### (2023-2)| Fatec-Sjc | Web Site para capacitação do Scrum
-- ######  [[API - 1º Semestre]] 
+- ######  [API - 1º Semestre](API - 1º Semestre.md) 
 
 ##### (2024-1)| Fatec-Sjc | Aplicação Desktop para consulta com linguagem natural em dados
-- ###### [[API - 2º Semestre]]  
+- ###### [API - 2º Semestre](API - 2º Semestre.md)
 
 ###### (2024-2)| Fatec-Sjc | Aplicação web com dashboards organizacionais 
-- ###### [[API - 3º Semestre]] 
+- ###### [API - 3º Semestre](API - 3º Semestre.md) 
 
 ##### (2025-1)| Fatec-Sjc | Aplicação web para gerenciamento inteligente de projetos
-- ###### [[API - 4º Semestre]] 
+- ###### [API - 4º Semestre](API - 4º Semestre.md) 
