@@ -1,9 +1,19 @@
 
 ## Introdução
 <img align="right" src="foto_perfil.jpeg" alt="Foto de Samuel" width="300"/>
-Atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
+
+Olá meu nome é Samuel, tenho 20 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
+
+### Histórico Acadêmico
+Entre 2021 e 2022, realizei um curso técnico em Mecânica no Cephas (Colégio de Educação Profissional Hélio Augusto de Souza), com duração de um ano e meio. Apesar de ter concluído a formação, não cheguei a atuar na área.
+
+
+### Motivação 
 Meu primeiro contato com Tecnologia da Informação ocorreu durante a graduação, momento que despertei grande interesse, principalmente o quanto podemos utilizar a tecnologia para resolver problemas reais. Desde então venho constantemente aprimorando os meus conhecimentos, com foco em Ciência de Dados, área que pretendo consolidar minha carreira profissional, além de demonstrar interesse em redes de computadores e sistemas operacionais, especialmente no ambiente Linux.
+
+### Histórico Profissional
 Atualmente sou trainee na DataSide, uma empresa de consultoria focada em dados, inteligência artificial e negócios, cuja missão é acompanhar organizações em sua jornada de evolução com IA aplicada ao ambiente corporativo. Minhas atribuições concentram-se no meu desenvolvimento profissional em ciência de dados, estudando tópicos como Machine Learning, Análise Exploratória de Dados, MLOps e Engenharia de Software com Python. No decorrer do meu avanço técnico, serei integrado a projetos da empresa, atuando com clientes reais do mercado.
+
 <br clear="right"/>
 
 ## Contatos
