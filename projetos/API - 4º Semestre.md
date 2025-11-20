@@ -1,6 +1,7 @@
 #### Em 2025-1
 
 **Empresa**: FAPG (Fundação de Apoio à Pesquisa e Gestão) 
+<br>
 **Área de atuação**: Pesquisa de pós graduação
 #### Problema: 
 A empresa parceira enfrenta dificuldades no gerenciamento e acompanhamento dos projetos em desenvolvimento. A ausência de um processo padronizado de planejamento e controle tem resultado em falhas no levantamento de requisitos, atrasos nas entregas e dificuldades na alocação de recursos financeiros. Essa falta de visibilidade sobre o andamento das atividades compromete o cumprimento de prazos e afeta a eficiência geral da gestão de projetos.

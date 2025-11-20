@@ -1,6 +1,7 @@
 #### Em 2024-2
 
 **Empresa**: Youtan 
+<br>
 **Área de atuação**:  Empresa de Software
 #### Problema: 
 O setor de Recursos Humanos da empresa parceira enfrenta dificuldades na gestão do clima organizacional e na compreensão da satisfação dos colaboradores em relação ao ambiente de trabalho. A ausência de um processo estruturado de feedback e as falhas na comunicação interna têm dificultado o monitoramento das percepções dos funcionários, resultando em desmotivação e redução da colaboração entre as equipes.
