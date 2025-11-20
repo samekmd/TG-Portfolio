@@ -1,23 +1,10 @@
 
 ## Introdução
-<div style="display: flex; align-items: center; gap: 16px;">
-  <div style="flex: 1;">
-    <p>
-      Atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
-    </p>
-    <p>
-     Meu primeiro contato com Tecnologia da Informação ocorreu durante a  graduação, momento que despertei grande interesse, principalmente o quanto podemos utilizar a tecnologia para resolver problemas reais, desde então venho constantemente aprimorando os meus conhecimentos, com foco em Ciência de Dados, área que pretendo consolidar minha carreira profissional, além de demonstrar interesse em redes de computadores e sistemas operacionais, especialmente no ambiente Linux.
-    </p>
-	 <p>
-	Atualmente sou trainee na DataSide, uma empresa de consultoria focada em dados, inteligência artificial e negócios, cuja missão é acompanhar organizações em sua jornada de evolução com IA aplicada ao ambiente corporativo. Minhas atribuições concentram-se no meu desenvolvimento profissional em ciência de dados, estudando tópicos como Machine Learning, Análise Exploratória de Dados, MLOps e Engenharia de Software com Python. No decorrer do meu avanço técnico, serei integrado a projetos da empresa, atuando com clientes reais do mercado.
-	<p>
-  </div>
-  <img 
-    src="foto_perfil.jpeg" 
-    alt="Foto de Samuel" 
-    style="width: 300px; height: auto; border-radius: 5px; object-fit: cover;"
-  >
-</div>
+<img align="right" src="foto_perfil.jpeg" alt="Foto de Samuel" width="300"/>
+Atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
+Meu primeiro contato com Tecnologia da Informação ocorreu durante a graduação, momento que despertei grande interesse, principalmente o quanto podemos utilizar a tecnologia para resolver problemas reais. Desde então venho constantemente aprimorando os meus conhecimentos, com foco em Ciência de Dados, área que pretendo consolidar minha carreira profissional, além de demonstrar interesse em redes de computadores e sistemas operacionais, especialmente no ambiente Linux.
+Atualmente sou trainee na DataSide, uma empresa de consultoria focada em dados, inteligência artificial e negócios, cuja missão é acompanhar organizações em sua jornada de evolução com IA aplicada ao ambiente corporativo. Minhas atribuições concentram-se no meu desenvolvimento profissional em ciência de dados, estudando tópicos como Machine Learning, Análise Exploratória de Dados, MLOps e Engenharia de Software com Python. No decorrer do meu avanço técnico, serei integrado a projetos da empresa, atuando com clientes reais do mercado.
+<br clear="right"/>
 
 ## Contatos
 
@@ -43,14 +30,14 @@
 
 ## Meus Projetos
 
-##### (2023-2)| Fatec-Sjc | Web Site para capacitação do Scrum
-- ######  [API - 1º Semestre](API - 1º Semestre.md) 
+##### (2023-2) | Fatec-Sjc | Web Site para capacitação do Scrum
+- [API - 1º Semestre](API%20-%201º%20Semestre.md)
 
-##### (2024-1)| Fatec-Sjc | Aplicação Desktop para consulta com linguagem natural em dados
-- ###### [API - 2º Semestre](API - 2º Semestre.md)
+##### (2024-1) | Fatec-Sjc | Aplicação Desktop para consulta com linguagem natural em dados
+- [API - 2º Semestre](API%20-%202º%20Semestre.md)
 
-###### (2024-2)| Fatec-Sjc | Aplicação web com dashboards organizacionais 
-- ###### [API - 3º Semestre](API - 3º Semestre.md) 
+##### (2024-2) | Fatec-Sjc | Aplicação web com dashboards organizacionais
+- [API - 3º Semestre](API%20-%203º%20Semestre.md)
 
-##### (2025-1)| Fatec-Sjc | Aplicação web para gerenciamento inteligente de projetos
-- ###### [API - 4º Semestre](API - 4º Semestre.md) 
+##### (2025-1) | Fatec-Sjc | Aplicação web para gerenciamento inteligente de projetos
+- [API - 4º Semestre](API%20-%204º%20Semestre.md)
