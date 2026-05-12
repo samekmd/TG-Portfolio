@@ -51,3 +51,9 @@ Atualmente sou trainee na DataSide, uma empresa de consultoria focada em dados, 
 
 ##### (2025-1) | Fatec-Sjc | Aplicação web para gerenciamento inteligente de projetos
 - [API - 4º Semestre](projetos/API%20-%204º%20Semestre.md)
+
+##### (2025-2) | Fatec-Sjc | Aplicação mobile para criação de endereços digitais
+- [API - 5º Semestre](projetos/API%20-%205º%20Semestre.md)
+
+##### (2026-1) | Fatec-Sjc | Aplicação web para gerenciamento de regras de negócio
+- [API - 6º Semestre](projetos/API%20-%206º%20Semestre.md)
