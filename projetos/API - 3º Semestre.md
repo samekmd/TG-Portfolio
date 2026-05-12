@@ -128,5 +128,4 @@ No frontend, contribui para o desenvolvimento da **sidebar**, integração com a
 - **Proatividade**: *Tomei a iniciativa de iniciar o desenvolvimento da interface do sistema, pesquisando previamente padrões de projeto e boas práticas para aplicações modernas. Com base nisso, dei início à estruturação do frontend utilizando React e a biblioteca Material UI, definindo estilos, componentes e a organização base da aplicação. Essa ação antecipada facilitou o alinhamento visual do projeto e acelerou o avanço da equipe.*
 
 
-
 [Voltar](../README.md)
