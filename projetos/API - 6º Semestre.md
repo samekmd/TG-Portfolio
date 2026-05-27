@@ -113,7 +113,7 @@ class IntercorrenciaSazonal(BaseModel):
 <br>
 
 ### Fluxo Constrúido
-<img src="../assets/mermaid.png" alt="Fluxo do agente" width="300"/>
+<img width="300" alt="mermaid" src="https://github.com/user-attachments/assets/23f0df29-6325-417b-a505-db13628425f3" />
 
 <br>
 
