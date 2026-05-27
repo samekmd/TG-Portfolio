@@ -6,10 +6,10 @@
 #### Problema: 
 A população residente em áreas rurais enfrenta dificuldades relacionadas à ausência de endereços formais. Essa limitação compromete a identificação e a localização dessas residências por órgãos governamentais, além de dificultar a realização de entregas de produtos e o acesso de familiares e visitantes. A falta de um sistema padronizado de endereçamento impacta diretamente a integração dessas comunidades a serviços essenciais, afetando sua inclusão social e logística.
 #### Solução:
-Foi desenvolvida uma aplicação móvel que permite o cadastro de usuários por meio de informações pessoais, como nome, CPF, e-mail, data de nascimento e fotografia. A partir do CPF informado, o sistema realiza a identificação do código CAR do imóvel associado ao usuário.
+Foi desenvolvida uma aplicação mobile que permite o cadastro de usuários por meio de informações pessoais, como nome, CPF, e-mail, data de nascimento e fotografia. A partir do CPF informado, o sistema realiza a identificação do código CAR do imóvel associado ao usuário.
 Após o cadastro e autenticação, a aplicação disponibiliza um mapa interativo que permite a visualização da propriedade por meio de uma área demarcada. Caso o imóvel não possua endereço formal, o sistema possibilita a geração de um endereço digital (Plus Code) a partir do centróide da propriedade ou da seleção de um ponto dentro de seus limites, além de permitir a atualização do endereço e a consulta ao histórico de alterações.
 A solução também oferece funcionalidades de rotas e alertas, possibilitando ao usuário definir trajetos e visualizar condições climáticas e alertas ao longo do percurso. Usuários cadastrados podem registrar alertas viários, classificados por grau de gravidade (leve, moderado ou grave) e por tipo, como trânsito, acidente, veículo no acostamento ou presença da polícia rodoviária.
-Por fim, foi desenvolvida uma aplicação web para o gerenciamento da solução móvel, permitindo o controle de usuários registrados e dos alertas cadastrados no sistema
+Por fim, foi desenvolvida uma aplicação web para o gerenciamento da solução mobile, permitindo o controle de usuários registrados e dos alertas cadastrados no sistema
 
 
 ##### [Repositório](https://github.com/Phoenix-Team-Fatec/geo-maps)
