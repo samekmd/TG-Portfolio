@@ -123,10 +123,10 @@ class IntercorrenciaSazonal(BaseModel):
 ## Hard Skills
 | Tecnologia     | Proficiência       | Descrição                                                                                                               |
 | :------------- | :----------------- | :---------------------------------------------------------------------------------------------------------------------- |
-| **LangChain**  | faço com autonomia | Desenvolvimento de página ecomponentes, além da integração com backend |
-| **LangGraph**  | faço com autonomia | Desenvolvimento de página ecomponentes, além da integração com backend |
-| **Python**     | faço com autonomia | Desenvolvimento do agente de IA |
-| **MLFlow**     | faço com autonomia | Integração do agente de IA com modelos de linguagem e ferramentas externas, viabilizando o processamento de linguagem natural.|
+| **LangChain**  | faço com autonomia | Construção de pipelines e cadeias de processamento para aplicações de IA, integrando modelos de linguagem com fontes de dados e ferramentas externas. |
+| **LangGraph**  | faço com autonomia | Orquestração de agentes de IA com fluxos baseados em grafos, permitindo lógica condicional, ciclos e controle de estado em workflows complexos. |
+| **Python**     | faço com autonomia | Desenvolvimento de aplicações e scripts, com foco em automação, manipulação de dados e construção de agentes de IA. |
+| **MLFlow**     | Rastreamento de experimentos, versionamento de modelos e gerenciamento do ciclo de vida de projetos de machine learning.|
 | **Git**        | faço com autonomia | Controle de versão, trabalho em equipe com branches e gestão de repositórios.|
 
 

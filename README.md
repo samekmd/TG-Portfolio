@@ -1,7 +1,7 @@
 
 
 ## Introdução
-<img align='right' width="300" alt="foto_perfil" src="https://github.com/user-attachments/assets/52f9d7a0-7aaf-438b-a00f-1682f78a1461" />
+<img align='right' width="300" alt="foto_perfil" src="https://github.com/user-attachments/assets/52f9d7a0-7aaf-438b-a00f-1682f78a1461"/>
 
 Olá meu nome é Samuel, tenho 20 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
 
